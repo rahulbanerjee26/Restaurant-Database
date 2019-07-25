@@ -6,7 +6,7 @@
   
 
 **Used sqlalchemy and sqlite to complete the project**
-**Concepts: CRUD concepts, Foreign Key Relation, Psql from Python**
+**Concepts: CRUD concepts, Foreign Key Relation, sqlite from Python**
 
   
 
