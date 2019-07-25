@@ -5,14 +5,14 @@
 
   
 
-**Used sqlalchemy and psql to complete the project**
+**Used sqlalchemy and sqlite to complete the project**
 **Concepts: CRUD concepts, Foreign Key Relation, Psql from Python**
 
   
 
 <h3>  <u> Task </u></h3>
 
-<p> Use sqlalchemy to connect to a psql database and implement following functionality:
+<p> Use sqlalchemy to connect to a sqlite database and implement following functionality:
 	
 
  - Create Restaurant 
