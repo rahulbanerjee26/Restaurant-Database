@@ -34,8 +34,6 @@
 
 <a href="https://www.python.org/downloads/"> Python </a>
 
-<a href="https://www.postgresql.org/download/"> Postgresql </a>(Already installed in vm) 
-
 <a href="https://git-scm.com/"> Git Bash </a>
 <a href="https://www.sqlalchemy.org/"> Sqlalchemy </a>
 
